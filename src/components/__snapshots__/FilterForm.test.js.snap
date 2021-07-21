@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <form
+    class="filter-form"
+  >
+    <input
+      autocomplete="off"
+      for="name"
+      label="name"
+      name="name"
+      placeholder="Search by name"
+      value=""
+    />
+    <input
+      autocomplete="off"
+      for="tag"
+      label="tag"
+      name="tag"
+      placeholder="Search by tag"
+      value=""
+    />
+  </form>
+</div>
+`;

@@ -1,0 +1,31 @@
+.filter-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  background: #f8f8ff;
+}
+
+input:focus-visible {
+  -webkit-appearance: none;
+  outline: none;
+  border-bottom: 2px solid rgba(128, 128, 128, 1);
+}
+
+input {
+  /* appearance */
+  -webkit-appearance: none;
+  display: block;
+  background: none;
+  height: 3.5rem;
+  width: 98%;
+  margin: auto;
+  border: none;
+  border-bottom: 2px solid rgba(128, 128, 128, 0.25);
+
+  /* font */
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+}

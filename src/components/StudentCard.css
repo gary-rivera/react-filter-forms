@@ -1,0 +1,75 @@
+.student-card {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  display: flex;
+  text-align: left;
+  min-height: 22.5vh;
+  padding: 0.5rem 0rem;
+}
+
+.profile-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2.5rem 0rem;
+  width: 12.5vw;
+  height: 100%;
+}
+
+img {
+  border: 1px solid #808080;
+  border-radius: 50%;
+  width: 10rem;
+
+  height: auto;
+}
+
+.student-card h1 {
+  display: inline-block;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.student-info {
+  padding: 1rem 0rem;
+}
+
+.details {
+  font-size: 1.2rem;
+  padding: 0rem 1.5rem;
+}
+
+.details h4 {
+  margin: 0.5rem 0rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.show {
+  display: inherit;
+  list-style-type: none;
+  padding: 0;
+}
+
+li span {
+  position: relative;
+  right: -3rem;
+}
+button {
+  display: inline-block;
+  margin-left: auto;
+  background: none;
+  border: 0;
+  color: #808080;
+  height: 5rem;
+  width: 5rem;
+  font-size: 5rem;
+  text-align: center;
+  line-height: 100%;
+}
+
+button:hover {
+  font-size: 5rem;
+  color: black;
+}

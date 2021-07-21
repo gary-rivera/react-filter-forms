@@ -1,0 +1,14 @@
+.main-container {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 5px, rgba(0, 0, 0, 0.24) 0px 2px 3px;
+  background: #f8f8ff;
+  border-radius: 10px;
+  width: 60vw;
+  height: 80vh;
+  margin: auto;
+
+  overflow-y: auto;
+}
+
+.main-container::-webkit-scrollbar {
+  display: none;
+}

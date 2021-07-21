@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <form>
+    <input
+      autocomplete="off"
+      class="tag-form"
+      name="addTag"
+      placeholder="Add a tag"
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;
