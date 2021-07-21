@@ -1,7 +1,7 @@
 {
   "name": "hatchway-frontend",
   "version": "0.1.0",
-  "homepage": "http://gary-rivera.github.io/react-filter-forms"
+  "homepage": "http://gary-rivera.github.io/react-filter-forms",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
