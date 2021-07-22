@@ -1,4 +1,4 @@
-# Hatchway Frontend Assessment
+# Frontend Assessment
 
 This is my submission for the Frontend mockup of the student app. It was built using React Hooks.
 
